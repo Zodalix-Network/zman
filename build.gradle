@@ -1,0 +1,6 @@
+allprojects {
+    version '0.0.1-ALPHA'
+    group 'net.zoda'
+}
+
+description 'The manager for everything on the Zodalix Network'
